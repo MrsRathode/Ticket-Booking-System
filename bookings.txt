@@ -1,0 +1,3 @@
+Name: Anusha, Seat: 3, Price: 180
+Name: Anusha, Seat: 3, Price: 180
+Name: siri, Seat: 4, Price: 190
