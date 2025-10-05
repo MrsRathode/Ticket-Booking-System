@@ -38,9 +38,6 @@ It uses _Object-Oriented Programming_ and _file handling_ to store booking detai
    ```
 
 4. Interact using the console menu.
-   ```
-
-   ```
 
 💡 Example Output
 
