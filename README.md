@@ -35,7 +35,11 @@ It uses _Object-Oriented Programming_ and _file handling_ to store booking detai
    g++ main.cpp -o ticket
    ./ticket
 
-   4. Interact using the console menu.
+   ```
+
+4. Interact using the console menu.
+   ```
+
    ```
 
 💡 Example Output
