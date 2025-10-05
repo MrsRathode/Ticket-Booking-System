@@ -89,4 +89,4 @@ Admin panel for managing all bookings
 🏆 Project Author
 
 Anusha
-🔗 GitHub: [your GitHub profile link]
+🔗 GitHub: [https://github.com/MrsRathode/Ticket-Booking-System.git]
