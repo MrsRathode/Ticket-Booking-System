@@ -67,13 +67,15 @@ Here’s how the app looks when you run it in the terminal:
 
 ![Console Screenshot](screenshots/1.png)
 
+![Console Screenshot](screenshots/2.png)
+
 ---
 
 ### 🧾 Booking Confirmation Output
 
 This shows the output after booking a seat successfully:
 
-![Booking Screenshot](screenshots/2.png)
+![Booking Screenshot](screenshots/3.png)
 
 🌟 FUTURE ENHANCEMENTS 🌟
 

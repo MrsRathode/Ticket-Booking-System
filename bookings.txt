@@ -1,3 +1,5 @@
 Name: Anusha, Seat: 3, Price: 180
 Name: Anusha, Seat: 3, Price: 180
 Name: siri, Seat: 4, Price: 190
+Name: Anvee, Seat: 6, Price: 210
+Name: Anusha, Seat: 4, Price: 190
